@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gigaroach
 
 - 🌱 I’m currently learning JS
+- I'm noob 0_0
 
 
 <!---
