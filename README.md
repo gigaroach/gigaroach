@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigaroach
 
-- 🌱 I’m currently learning JavaScript, C, C++
+- 🌱 I’m currently learning Java, C, C++
 
 
 
